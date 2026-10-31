@@ -1,0 +1,5 @@
+{
+  "name": "Anime Store Dakar",
+  "description": "Boutique en ligne spécialisée en figurines, mangas, posters et merch anime au Sénégal (Dakar) avec commande instantanée par WhatsApp.",
+  "major_capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
